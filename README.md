@@ -48,30 +48,7 @@ Durante o desenvolvimento do trabalho final, utilizamos inicialmente uma **API s
 
 ---
 
-## 📂 Estrutura do Projeto
 
-lib/
-├── controllers
-├── main.dart
-├── midia_model.dart
-├── models
-│   ├── midia_model.dart
-│   └── servico_model.dart
-├── screens
-│   ├── captura_midia_screen.dart
-│   ├── detalhe_servico_screen.dart
-│   ├── lista_servicos_screen.dart
-│   └── login_screen.dart
-├── services
-│   ├── api_service.dart
-│   ├── login_controller.dart
-│   ├── servicos_controller.dart
-│   └── upload_service.dart
-└── widgets
-    ├── card_servico.dart
-    └── midia_uploader.dart
-
----
 
 ## 🔧 Tecnologias e Ferramentas Utilizadas
 
